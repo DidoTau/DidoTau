@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm currently working as a software engineer, alleviating the workload of the teachers
+- I'm an enthusiast of machine learning, science and software development
 <!--
 **DidoTau/DidoTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
