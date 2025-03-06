@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I'm currently working as a software engineer, alleviating the workload of the teachers
+- I'm currently working as a software engineer, alleviating the workload of the teachers as freelancer
+- I'm in charge of the technology area at a company that supports entrepreneurs, working as a Full Stack Developer 
 - I'm an enthusiast of machine learning, science and software development
 <!--
 **DidoTau/DidoTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
